@@ -1,0 +1,70 @@
+[
+    {
+        "event_id": 1,
+        "event_date_id": 101,
+        "event_title": "Salsa Night Fever",
+        "event_profile_img": "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?q=80&w=500&auto=format&fit=crop",
+        "readable_from_date": "15 Feb 2026",
+        "readable_to_date": "15 Feb 2026",
+        "event_price_from": 15,
+        "event_price_to": 15,
+        "keywords": [
+            "Salsa",
+            "Dance",
+            "Social"
+        ],
+        "city_name": "Barcelona",
+        "country_name": "Spain"
+    },
+    {
+        "event_id": 2,
+        "event_date_id": 102,
+        "event_title": "International Bachata Congress",
+        "event_profile_img": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=500&auto=format&fit=crop",
+        "readable_from_date": "20 Feb 2026",
+        "readable_to_date": "23 Feb 2026",
+        "event_price_from": 80,
+        "event_price_to": 150,
+        "keywords": [
+            "Bachata",
+            "Workshop",
+            "Festival"
+        ],
+        "city_name": "Madrid",
+        "country_name": "Spain"
+    },
+    {
+        "event_id": 3,
+        "event_date_id": 103,
+        "event_title": "Tango by the River",
+        "event_profile_img": "https://images.unsplash.com/photo-1545128485-c400e7702796?q=80&w=500&auto=format&fit=crop",
+        "readable_from_date": "05 Mar 2026",
+        "readable_to_date": "05 Mar 2026",
+        "event_price_from": 10,
+        "event_price_to": 20,
+        "keywords": [
+            "Tango",
+            "Outdoor",
+            "Romance"
+        ],
+        "city_name": "Berlin",
+        "country_name": "Germany"
+    },
+    {
+        "event_id": 4,
+        "event_date_id": 104,
+        "event_title": "Kizomba Fusion Weekend",
+        "event_profile_img": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=500&auto=format&fit=crop",
+        "readable_from_date": "12 Mar 2026",
+        "readable_to_date": "14 Mar 2026",
+        "event_price_from": 50,
+        "event_price_to": 90,
+        "keywords": [
+            "Kizomba",
+            "Fusion",
+            "Workshop"
+        ],
+        "city_name": "Paris",
+        "country_name": "France"
+    }
+]
